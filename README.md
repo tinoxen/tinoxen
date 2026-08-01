@@ -10,7 +10,19 @@
 
 ## MY PROJECTS
 
-
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://github.com/tinoxen/AI-POWERED-FACE-RECOGNITION-SYSTEM.git"><img src="" width="100%" alt="AI-POWERED-FACE-RECOGNITION-SYSTEM" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><br/>
+      <strong>AI-POWERED-FACE-RECOGNITION-SYSTEM</strong><br/>
+      <sub>Full Stack Developer</sub><br/>
+      <sub>A prototype web application for managing person records with a face photo, built for a final-year project. Uses synthetic/mock data and a simulated biometric matching step, not a real production face-recognition or law-enforcement system.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
