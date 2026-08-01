@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=3000&pause=1000&color=EADCDA&center=true&vCenter=true&width=500&lines=TINOXEN" />
 
-### Cybersecurity • Full Stack • Backend Developer
+### Cybersecurity • Full Stack • Cloud
 
 </div>
 
