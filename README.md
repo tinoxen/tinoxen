@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://github.com/tinoxen/AI-POWERED-FACE-RECOGNITION-SYSTEM.git"><img src="https://plus.unsplash.com/premium_photo-1764691387714-f3b960163b3c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YWklMjBwb3dlcmVkJTIwZmFjZSUyMHJlY29nbml0aW9uJTIwc3lzdGVtfGVufDB8fDB8fHww" width="30%" alt="AI-POWERED-FACE-RECOGNITION-SYSTEM" /></a>
+    <td align="center" width="30%"><a href="https://github.com/tinoxen/AI-POWERED-FACE-RECOGNITION-SYSTEM.git"><img src="https://plus.unsplash.com/premium_photo-1764691387714-f3b960163b3c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YWklMjBwb3dlcmVkJTIwZmFjZSUyMHJlY29nbml0aW9uJTIwc3lzdGVtfGVufDB8fDB8fHww" width="30%" alt="AI-POWERED-FACE-RECOGNITION-SYSTEM" /></a>
     </td>
   </tr>
   <tr>
